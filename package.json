@@ -1,0 +1,23 @@
+{
+  "name": "tworzymy-funkcje",
+  "version": "1.0.0",
+  "description": "Tworzymy funkcje",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agatakadziolka/Tworzymy-funkcje.git"
+  },
+  "keywords": [
+    "tworzymy",
+    "funkcje"
+  ],
+  "author": "Agata Kądziołka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agatakadziolka/Tworzymy-funkcje/issues"
+  },
+  "homepage": "https://github.com/agatakadziolka/Tworzymy-funkcje#readme"
+}
