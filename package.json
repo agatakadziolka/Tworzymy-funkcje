@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/agatakadziolka/Tworzymy-funkcje/issues"
   },
-  "homepage": "https://github.com/agatakadziolka/Tworzymy-funkcje#readme"
+  "homepage": "https://github.com/agatakadziolka/Tworzymy-funkcje#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
