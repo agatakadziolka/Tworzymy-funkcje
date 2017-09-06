@@ -14,3 +14,9 @@ function getTriangleArea(a, h) {
 }
 
 console.log(getTriangleArea(a, h));
+
+var zmienna1 = getTriangleArea(10,2);
+var zmienna2 = getTriangleArea(4,6);
+var zmienna3 = getTriangleArea(2,3);
+
+alert(zmienna3);
